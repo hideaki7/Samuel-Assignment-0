@@ -1,7 +1,6 @@
 # Assignment 0 - Hello World
 
-### Samuel Hideaki Tangke Arung
-### 5024241062
+### Samuel Hideaki Tangke Arung | 5024241062
 
 ## Deskripsi
 Tugas ini bertujuan untuk memodifikasi program sederhana C++ "Hello World" agar dapat menerima input nama dari pengguna, kemudian menampilkan sapaan menggunakan nama tersebut.
